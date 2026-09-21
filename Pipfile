@@ -12,8 +12,14 @@ pyarrow = "*"
 seaborn = "*"
 numpy = "*"
 dbt-core = "*"
+<<<<<<< HEAD
 dbt-duckdb = "*"
 dbt-mysql = "*"
+=======
+requests = "*"
+httpx = "*"
+asyncio = "*"
+>>>>>>> upstream/main
 
 [dev-packages]
 
