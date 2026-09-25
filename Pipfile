@@ -19,7 +19,7 @@ dbt-mysql = "*"
 requests = "*"
 httpx = "*"
 asyncio = "*"
->>>>>>> upstream/main
+psutil = "*"
 
 [dev-packages]
 
